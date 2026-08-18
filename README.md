@@ -1,2 +1,2 @@
-# integradora
-ultimo parcial conocimiento de todo
+# artezzo-pagina-laravel
+migracion de la pagina anterior a laravel
